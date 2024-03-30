@@ -1,0 +1,54 @@
+{
+  "paragraphs": [
+    {
+      "text": "Last time I checked, 1 plus 1 is 2. You probably agree with me, but why? Ridiculous question, you might say. 1 plus 1 is clearly 2. It's just arithmetic.",
+      "start": 0.24,
+      "end": 13.825
+    },
+    {
+      "text": "Yet stating the obvious isn't a proof. You can certainly draw pictures to illustrate your point. A single object combined with an identical single object is what we would call 2 of them. However, this isn't exactly what we would call a rigorous argument. These are some of the piano axioms.",
+      "start": 14.764999,
+      "end": 34.684998
+    },
+    {
+      "text": "Not all of them. By the way, I'm giving you these in plain English. They are rigorously defined. You can look them up. But these are the ones we basically need.",
+      "start": 34.99,
+      "end": 43.09
+    },
+    {
+      "text": "One is a natural number and is the first natural number. Well, for argument sake here, we'll use 0 even though that's not typically a natural number, but that's what we're going with. 2nd axiom, all natural numbers have a successor. S of n. That's what we call the successor of n.",
+      "start": 43.735,
+      "end": 64.145004
+    },
+    {
+      "text": "The next number. 3rd, every number except 0, our first natural number are successors. They are the next number of something. Now how do we define addition? This is what we mean by a plus b.",
+      "start": 64.205,
+      "end": 82.345
+    },
+    {
+      "text": "First, the easy case. If b is 0, it's exactly what you would expect. A plus b is just a. The more complicated bit, if b isn't 0, then a plus b is the successor of a+c, b being the successor of c. We're essentially saying that to add b to a, you find the number c such that b is c's successor, then you add a to c, which should be a simpler problem.",
+      "start": 82.965004,
+      "end": 117.595
+    },
+    {
+      "text": "Especially if we keep reducing b until it becomes 0. Then you take the successor of that to get a plus b. A little wonky, a little bit of a mouthful, but that's the definition. Now we're ready for the proof. Let a equal 1 and b equal 1.",
+      "start": 118.455,
+      "end": 135.665
+    },
+    {
+      "text": "What is b the successor of? 1 is the successor of 0. Then by definition, 1+1 is the successor of 1+ 0. 1 plus 0 is defined to be 1. And so that's the successor of 1 which of course is 2.",
+      "start": 136.205,
+      "end": 159.45
+    },
+    {
+      "text": "If you really want to up your math game, you should check out my introductory math proofs course. Prove it like a mathematician is the course I wish I had when I was first learning the world of mathematical proofs. This course is both a map and a toolbox designed to take you from beginner to advanced, make the abstract concrete and the complex simple. We'll break down every concept into intuitive steps, building your knowledge and your confidence. We'll tackle every major proof technique you might see in a math class or what real mathematicians use.",
+      "start": 160.15,
+      "end": 197.95999
+    },
+    {
+      "text": "Whether you're a student or an enthusiast, you'll be learning to conquer proofs in no time at all and ready for whatever comes next on your mathematical journey. Click the link in the description to learn more.",
+      "start": 198.60501,
+      "end": 211.77
+    }
+  ]
+}
