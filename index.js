@@ -118,7 +118,7 @@ async function downloadAudio(link, save) {
         );
     });
 
-    return transcribeFile('output.mp3', save);
+    return transcribeFile('audio.mp3', save);
 }
 
 async function transcribeFile(pathtofile, save) {
@@ -133,7 +133,6 @@ async function transcribeFile(pathtofile, save) {
             detect_language: true,
             summarize: "v2",
             smart_format: true,
-            diarize: true,
         },
     );
 
